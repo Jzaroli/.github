@@ -1,6 +1,4 @@
-![Banner](https://cdn.prod.website-files.com/65d4d703fd133afa1bee8167/65d4da523a7af018c0b99c71_TransparentLogo.png)
-
-
+<img src="https://structuredlabs.com/logo.svg" width="200">
 
 <p align="center">
     <em>🐵 Your lightweight companion for building simple, interactive, and dynamic data apps in Python.</em>
