@@ -1,63 +1,40 @@
-<img src="https://structuredlabs.com/logo.svg" width="1000">
-
 <p align="center">
-    <em>🐵 Your lightweight companion for building simple, interactive, and dynamic data apps in Python.</em>
-</p>
-<p align="center">
-    <a href="LICENSE">
-        <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="Apache 2.0 License">
-    </a>
-    <a href="https://www.python.org/downloads/">
-        <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version">
-    </a>
-    <a href="https://structured-users.slack.com/join/shared_invite/zt-265ong01f-UHP6BP3FzvOmMQDIKty_JQ#/shared-invite/email">
-        <img src="https://img.shields.io/badge/Slack-Join%20Community-orange" alt="Slack Community">
-    </a>
-    <a href="https://pypi.org/project/preswald/">
-        <img src="https://img.shields.io/pypi/v/preswald" alt="PyPI Version">
-    </a>
+  <img src="logo.svg" alt="Logo" width="750">
 </p>
 
-<p align="center">
-<a href="https://preswald.com" target="_blank">
-<img src="https://img.shields.io/badge/Landing%20Page-Visit-blue?style=for-the-badge" alt="Website">
-</a>
-<a href="https://docs.preswald.com" target="_blank">
-<img src="https://img.shields.io/badge/Documentation-Read-green?style=for-the-badge" alt="Documentation">
-</a>
-<a href="https://demo.preswald.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-Try-orange?style=for-the-badge" alt="Demo">
-</a>
-<a href="https://cal.com/structured" target="_blank">
-<img src="https://img.shields.io/badge/Book%20a%20Demo-Schedule-red?style=for-the-badge" alt="Book a Demo">
-</a>
-</p>
+Structured Labs is creating **smarter ways for humans to explore and reason with data.**
 
-Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It combines ingestion, storage, transformation, and visualization into one lightweight and powerful SDK. Whether you're prototyping internal tools or deploying production-grade apps, Preswald reduces complexity and cost without compromising flexibility.
+We are building [Preswald](https://github.com/StructuredLabs/preswald), a workspace for analysts and engineers to explore data, test ideas, share learnings, and uncover meaning. It is an interface where human and machine intelligence collaborate to push the boundaries of discovery.
 
-- Code-First Simplicity. Minimal Python and SQL for powerful apps
-- End-to-End Coverage. Handle ingestion, ETL, and visualization in one platform
-- Efficient by Design. Avoid the sprawling complexity of the modern data stack while keeping what works.
-- Connect to CSV, JSON, Parquet, or SQL databases in seconds.
-- Fully Customizable Themes. Your app, your brand—just tweak images and names in `preswald.toml`.
-- Go live on your machine with a single command.
+We are backed by **Y Combinator**, **General Catalyst**, **Z Fellows**, and more.
 
-## **🎉 Join the Community**
+If anything we're working on is interesting to you, reach out:  
+📧 [founders@structuredlabs.com](mailto:founders@structuredlabs.com)
+
+— [Amrutha](https://linkedin.com/in/amruthagujjar), [Shivam](https://linkedin.com/in/shivam-singhal), and the Structured Labs team
+
+---
+
+## **🔗 Links**
+
+- [Product](https://www.preswald.com)
+- [Blog](https://preswald.com/blog)
+- [Docs](https://docs.preswald.com)
+- [Contact](mailto:founders@structuredlabs.com)
+
+---
+
+## **🌍 Connect with Us**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/structuredlabs/)  
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/structuredlabs)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StructuredLabs/preswald)  
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://preswald-community.slack.com/join/shared_invite/zt-313yzc9hu-6olRuzf8B9RZU6lwnlZyCA#/shared-invite/email)
+
+## **🚀 Get Involved**
 
 - **GitHub Issues**: Found a bug? Let us know [here](https://github.com/StructuredLabs/preswald/issues).
-- **Community Forum**: Reach out [here](https://structured-users.slack.com/join/shared_invite/zt-265ong01f-UHP6BP3FzvOmMQDIKty_JQ#/shared-invite/email)
 - **Discussions**: Share your ideas and ask questions in our [discussion forum](https://github.com/StructuredLabs/preswald/discussions).
 - **Contributors**: Meet the awesome people who make Preswald better [here](https://github.com/StructuredLabs/preswald/graphs/contributors).
 
 <br>
-
-## **📢 Stay Connected**
-
-<p>
-    <a href="https://www.linkedin.com/company/structuredlabs/" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20Us-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Follow us on LinkedIn">
-    </a>
-    <a href="https://x.com/StructuredLabs" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20Us-Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow us on Twitter">
-    </a>
-</p>
