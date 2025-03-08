@@ -22,7 +22,7 @@ If anything we're working on is interesting to you, reach out:
 ## **🌍 Explore, Connect, and Contribute**
 
 ### **🔗 Resources**
-<p align="center">
+<p align="left">
   <a href="https://www.preswald.com">
     <img src="https://img.shields.io/badge/Product-1E88E5?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product">
   </a>
@@ -37,13 +37,9 @@ If anything we're working on is interesting to you, reach out:
   </a>
 </p>
 
-### **🚀 Get Involved**
-- 🛠 **[GitHub Issues](https://github.com/StructuredLabs/preswald/issues)** – Found a bug? Let us know.  
-- 💡 **[Discussions](https://github.com/StructuredLabs/preswald/discussions)** – Share ideas, ask questions.  
-- 🙌 **[Contributors](https://github.com/StructuredLabs/preswald/graphs/contributors)** – Meet the awesome people building Preswald.  
 
 ### **🤝 Stay Connected**
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/company/structuredlabs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -58,4 +54,8 @@ If anything we're working on is interesting to you, reach out:
   </a>
 </p>
 
+### **🚀 Get Involved**
+- 🛠 **[GitHub Issues](https://github.com/StructuredLabs/preswald/issues)** – Found a bug? Let us know.  
+- 💡 **[Discussions](https://github.com/StructuredLabs/preswald/discussions)** – Share ideas, ask questions.  
+- 🙌 **[Contributors](https://github.com/StructuredLabs/preswald/graphs/contributors)** – Meet the awesome people building Preswald.  
 <br>
