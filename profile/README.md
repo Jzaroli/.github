@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://structuredlabs.com/logo.svg" alt="Logo" width="750">
 </p>
-Structured Labs is creating **smarter ways for humans to explore and reason with data.**
+
+Structured Labs is creating *smarter ways for humans to explore and reason with data.*
 
 We are building [Preswald](https://github.com/StructuredLabs/preswald), a workspace for analysts and engineers to explore data, test ideas, share learnings, and uncover meaning. It is an interface where human and machine intelligence collaborate to push the boundaries of discovery.
 
