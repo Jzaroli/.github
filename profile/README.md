@@ -1,4 +1,4 @@
-<img src="https://structuredlabs.com/logo.svg" width="200">
+<img src="https://structuredlabs.com/logo.svg" width="1000">
 
 <p align="center">
     <em>🐵 Your lightweight companion for building simple, interactive, and dynamic data apps in Python.</em>
