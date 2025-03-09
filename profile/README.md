@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://structuredlabs.com/logo.svg" alt="Logo" width="550">
+  <img src="/banner.png" alt="Logo" width="550">
 </p>
 
 <br>
