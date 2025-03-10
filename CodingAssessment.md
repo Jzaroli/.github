@@ -8,8 +8,6 @@
 
 The goal is to contribute an example to the **`examples/`** folder of the **[Preswald GitHub repository](https://github.com/StructuredLabs/preswald)**. This should take **approximately 30 minutes** to complete.
 
----
-
 ## **Task Description**
 
 Your task is to:
@@ -25,7 +23,7 @@ Your task is to:
 
 ### **1. Set Up Your Environment**
 
-Ensure you have Preswald installed. If you haven’t already, install it using:
+Install Preswald. If you have any troubles, use a virtual env. [Guide](https://docs.preswald.com/usage/troubleshooting#set-up-a-virtual-environment)
 
 ```bash
 pip install preswald
@@ -37,8 +35,6 @@ Create a new project directory:
 preswald init my_example_project
 cd my_example_project
 ```
-
-This will generate a boilerplate structure with a `hello.py` script. If you have any trouble with this, create a virtual environment [ref](https://docs.preswald.com/usage/troubleshooting)
 
 ---
 
