@@ -17,24 +17,18 @@ Your task is to:
 3. Deploy your app
 4. Submit a PR to the `examples/` folder.
 
----
-
 ## **Step-by-Step Instructions**
 
 ### **1. Set Up Your Environment**
 
 Install Preswald. If you have any troubles, use a virtual env. [Guide](https://docs.preswald.com/usage/troubleshooting#set-up-a-virtual-environment)
 
-```bash
 pip install preswald
-```
 
 Create a new project directory:
 
-```bash
 preswald init my_example_project
 cd my_example_project
-```
 
 ---
 
@@ -61,50 +55,41 @@ Modify `hello.py` to include the following:
 
 1. **Load the dataset**
             
-        ```python
         from preswald import connect, get_df
         
         connect()  # Initialize connection to preswald.toml data sources
         df = get_df("my_dataset")  # Load data
-        ```
         
 2. **Query or manipulate the data**
             
-        ```python
+        
         from preswald import query
         
         sql = "SELECT * FROM my_dataset WHERE value > 50"
         filtered_df = query(sql, "my_dataset")
-        ```
         
 3. **Build an interactive UI**
             
-        ```python
         from preswald import table, text
         
         text("# My Data Analysis App")
         table(filtered_df, title="Filtered Data")
-        ```
         
     - Add user controls:
-        
-        ```python
+        ```
         from preswald import slider, view
-        
         threshold = slider("Threshold", min_val=0, max_val=100, default=50)
         table(df[df["value"] > threshold], title="Dynamic Data View")
         ```
-        
 4. **Create a visualization**
-    
-    ```python
+
+    ```
     from preswald import plotly
     import plotly.express as px
     
     fig = px.scatter(df, x="column1", y="column2", color="category")
     plotly(fig)
     ```
-
 ---
 
 ### **4. Deploy Your App to Structured Cloud**
@@ -120,10 +105,8 @@ Once your app is running locally, deploy it.
       
 2. **Deploy your app using the following command:**
     
-    ```bash
     preswald deploy --target structured --github <your-github-username> --api-key <structured-api-key> hello.py
-    ```
-    
+
     Replace `<your-github-username>` and `<structured-api-key>` with your credentials.
     
 3. **Verify the deployment**
@@ -147,13 +130,11 @@ Once your app is running locally, deploy it.
 
 **Example folder structure:**
 
-```
 examples/my_dataset_example/
 ├── hello.py
 ├── data/
 │   ├── my_dataset.csv
 ├── README.md
-```
 
 ---
 
