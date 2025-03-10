@@ -60,9 +60,7 @@ Place your dataset in the `data/` folder of your project.
 Modify `hello.py` to include the following:
 
 1. **Load the dataset**
-    
-    - If it’s a CSV file:
-        
+            
         ```python
         from preswald import connect, get_df
         
@@ -70,12 +68,8 @@ Modify `hello.py` to include the following:
         df = get_df("my_dataset")  # Load data
         ```
         
-    - If using an API, fetch and preprocess the data.
-        
 2. **Query or manipulate the data**
-    
-    - Example using SQL-style queries:
-        
+            
         ```python
         from preswald import query
         
@@ -84,9 +78,7 @@ Modify `hello.py` to include the following:
         ```
         
 3. **Build an interactive UI**
-    
-    - Display the data:
-        
+            
         ```python
         from preswald import table, text
         
@@ -112,20 +104,20 @@ Modify `hello.py` to include the following:
     fig = px.scatter(df, x="column1", y="column2", color="category")
     plotly(fig)
     ```
-    
 
 ---
 
 ### **4. Deploy Your App to Structured Cloud**
 
-Once your app is running locally, deploy it to **Structured Cloud** for public access.
+Once your app is running locally, deploy it.
 
 1. **Get an API key**
     
     - Go to [app.preswald.com](https://app.preswald.com/)
-    - Create a New Organization
+    - Create a New Organization (top left corner)
     - Navigate to **Settings > API Keys**
     - Generate and copy your **Preswald API key**
+      
 2. **Deploy your app using the following command:**
     
     ```bash
@@ -169,16 +161,14 @@ examples/my_dataset_example/
 
 Once you've completed your work:
 
-1. **Fork the [Preswald repository](https://github.com/StructuredLabs/preswald)**.
+1. **Fork [Preswald](https://github.com/StructuredLabs/preswald)**.
 2. **Add your example to `examples/`**.
 3. **Push your changes to your fork**.
-4. **Open a Pull Request (PR)** with a brief description of your contribution.
+4. **Open a PR** with a brief description of your contribution. (See [guide](https://github.com/StructuredLabs/preswald/blob/main/CONTRIBUTING.md) if you need help).
 
 ---
 
 ## **Need Help?**
-
-If you have any questions:
 
 - Check the **[Preswald Documentation](https://docs.preswald.com/)**.
 - Reach out via [**GitHub Issues**](https://github.com/StructuredLabs/preswald/issues).
@@ -186,4 +176,4 @@ If you have any questions:
 
 ---
 
-### **After completing this, reach out to founders@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`**
+### **After completing this, reach out to founders@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`** with a link to your PR + Deployed link.
