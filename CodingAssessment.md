@@ -130,12 +130,13 @@ Once your app is running locally, deploy it.
 
 **Example folder structure:**
 
+```
 examples/my_dataset_example/
 ├── hello.py
 ├── data/
 │   ├── my_dataset.csv
 ├── README.md
-
+```
 ---
 
 ### **6. Submit a Pull Request**
