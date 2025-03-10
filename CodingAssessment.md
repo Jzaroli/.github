@@ -6,9 +6,7 @@
 
 ## **Overview**
 
-As part of this coding assessment, you will contribute an example to the **`examples/`** folder of the **[Preswald GitHub repository](https://github.com/StructuredLabs/preswald)**. You will use a dataset of your choice and demonstrate how Preswald can be used to **query, analyze, visualize, and deploy** data apps interactively.
-
-This should take **approximately 30 minutes** to complete.
+The goal is to contribute an example to the **`examples/`** folder of the **[Preswald GitHub repository](https://github.com/StructuredLabs/preswald)**. This should take **approximately 30 minutes** to complete.
 
 ---
 
@@ -16,10 +14,10 @@ This should take **approximately 30 minutes** to complete.
 
 Your task is to:
 
-1. **Find a dataset**
-2. **Write a Preswald app** 
-3. Publish your app to **Preswald Cloud** for public access.
-4. **Submit your work by adding it to the `examples/` folder in a structured format.
+1. Find a dataset
+2. Write a Preswald app 
+3. Deploy your app
+4. Submit a PR to the `examples/` folder.
 
 ---
 
