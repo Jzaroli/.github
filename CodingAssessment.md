@@ -100,9 +100,9 @@ Once your app is running locally, deploy it.
     - Generate and copy your **Preswald API key**
       
 2. **Deploy your app using the following command:**
-    
+    ```
     preswald deploy --target structured --github <your-github-username> --api-key <structured-api-key> hello.py
-
+    ```
     Replace `<your-github-username>` and `<structured-api-key>` with your credentials.
     
 3. **Verify the deployment**
