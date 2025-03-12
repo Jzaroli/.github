@@ -19,6 +19,7 @@ Your task is to:
 
 ## **Step-by-Step Instructions**
 
+### **0. Show your support! Star the repo: [Preswald](https://github.com/StructuredLabs/preswald) **
 ### **1. Set Up Your Environment**
 
 Install Preswald. If you have any troubles, use a virtual env. [Guide](https://docs.preswald.com/usage/troubleshooting#set-up-a-virtual-environment)
