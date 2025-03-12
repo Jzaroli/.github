@@ -34,10 +34,6 @@ cd my_example_project
 
 ### **2. Choose a Dataset**
 
-Either use [Iris Dataset](https://gist.github.com/netj/8836201#file-iris-csv )
-
-or
-
 Select/download a dataset from any of these sources:
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
