@@ -151,8 +151,8 @@ Once you've completed your work:
 
 - Check the **[Preswald Documentation](https://docs.preswald.com/)**.
 - Reach out via [**GitHub Issues**](https://github.com/StructuredLabs/preswald/issues).
-- Email **[founders@structuredlabs.com](mailto:founders@structuredlabs.com)**.
+- Email **[jobs@structuredlabs.com](mailto:jobs@structuredlabs.com)**.
 
 ---
 
-### **After completing this, reach out to founders@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`** with a link to your PR + Deployed link.
+### **After completing this, reach out to jobs@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`** with a link to your PR + Deployed link.
