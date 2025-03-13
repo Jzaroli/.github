@@ -6,7 +6,7 @@
 
 ## **Overview**
 
-The goal is to contribute an example to the **`examples/`** folder of the **[Preswald GitHub repository](https://github.com/StructuredLabs/preswald)**. This should take **approximately 30 minutes** to complete.
+The goal is to contribute an example to the **`community_gallery/`** folder of the **[Preswald GitHub repository](https://github.com/StructuredLabs/preswald)**. This should take **approximately 30 minutes** to complete.
 
 ## **Task Description**
 
@@ -15,7 +15,7 @@ Your task is to:
 1. Find a dataset
 2. Write a Preswald app 
 3. Deploy your app
-4. Submit a PR to the `examples/` folder.
+4. Submit a PR to the `community_gallery/` folder.
 
 ## **Step-by-Step Instructions**
 
@@ -115,8 +115,8 @@ Once your app is running locally, deploy it.
 
 ### **5. Add Your Example to the Repository**
 
-1. **Create a new folder** inside `examples/` in the Preswald GitHub repository.
-    - Name it based on your dataset (e.g., `examples/my_dataset_example`).
+1. **Create a new folder** inside `community_gallery/` in the Preswald GitHub repository.
+    - Name it based on your dataset (e.g., `community_gallery/my_dataset_example`).
 2. **Include:**
     - **Your script** (`hello.py` or another filename).
     - **Your dataset** (if small) in the `data/` folder, or a link to it in `README.md`.
@@ -128,7 +128,7 @@ Once your app is running locally, deploy it.
 **Example folder structure:**
 
 ```
-examples/my_dataset_example/
+community_gallery/my_dataset_example/
 ├── hello.py
 ├── data/
 │   ├── my_dataset.csv
@@ -141,7 +141,7 @@ examples/my_dataset_example/
 Once you've completed your work:
 
 1. **Fork [Preswald](https://github.com/StructuredLabs/preswald)**.
-2. **Add your example to `examples/`**.
+2. **Add your example to `community_gallery/`**.
 3. **Push your changes to your fork**.
 4. **Open a PR** with a brief description of your contribution. (See [guide](https://github.com/StructuredLabs/preswald/blob/main/CONTRIBUTING.md) if you need help).
 
