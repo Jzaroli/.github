@@ -155,4 +155,4 @@ Once you've completed your work:
 
 ---
 
-### **After completing this, reach out to jobs@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`** with a link to your PR + Deployed link.
+### **After completing this, reach out to jobs@structuredlabs.com with subject line - `<your name> Coding Assesment Completed`** with a link to your PR + Screenshot/GIF of your project.
