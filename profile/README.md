@@ -49,7 +49,7 @@ If anything we're working on is interesting to you, reach out:
   <a href="https://github.com/StructuredLabs/preswald">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://preswald-community.slack.com/join/shared_invite/zt-313yzc9hu-6olRuzf8B9RZU6lwnlZyCA#/shared-invite/email">
+  <a href="Try https://join.slack.com/t/preswald-community/shared_invite/zt-31vvfitfm-_vG1HR9hYysR_56u_PfI8Q">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
 </p>
