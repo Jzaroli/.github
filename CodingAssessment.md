@@ -104,7 +104,7 @@ Once your app is running locally, deploy it.
     ```
     preswald deploy --target structured --github <your-github-username> --api-key <structured-api-key> hello.py
     ```
-    Replace `<your-github-username>` and `<structured-api-key>` with your credentials.
+    Replace `<your-github-username>` and `<structured-api-key>` with your credentials. (Note: your github username must be all lowercase)
     
 3. **Verify the deployment**
     
